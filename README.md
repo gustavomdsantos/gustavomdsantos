@@ -2,7 +2,7 @@
 
 * IT management:
 
-<img src="https://skillicons.dev/icons?i=azure" title="Azure"/> &nbsp;<img src="https://skillicons.dev/icons?i=gitlab" title="GitLab"/> &nbsp;<img src="./ms-project.svg" title="Microsoft Project"/> &nbsp;<img src="https://skillicons.dev/icons?i=figma" title="Figma"/> &nbsp;<img src="https://skillicons.dev/icons?i=vscodium" title="VSCodium"/> &nbsp;<img src="https://skillicons.dev/icons?i=notion" title="Notion"/> &nbsp;<img src="https://skillicons.dev/icons?i=sublime" title="Sublime Text"/>
+<img src="./azure-devops.svg" title="Azure DevOps"/> &nbsp;<img src="https://skillicons.dev/icons?i=gitlab" title="GitLab"/> &nbsp;<img src="./ms-project.svg" title="Microsoft Project"/> &nbsp;<img src="https://skillicons.dev/icons?i=figma" title="Figma"/> &nbsp;<img src="https://skillicons.dev/icons?i=vscodium" title="VSCodium"/> &nbsp;<img src="https://skillicons.dev/icons?i=notion" title="Notion"/> &nbsp;<img src="https://skillicons.dev/icons?i=sublime" title="Sublime Text"/>
 
 * Software testing:
 
