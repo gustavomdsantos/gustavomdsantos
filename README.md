@@ -6,7 +6,7 @@
 
 * Software testing:
 
-<a href="https://autohotkey.com/"><img src="https://autohotkey.com/static/ahk76.png" height="49" alt="AutoHotKey" title="AutoHotKey"/></a> &nbsp;<a href="https://www.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress" title="Cypress"/></a> &nbsp;<a href="https://cucumber.io/"><img src="https://skillicons.dev/icons?i=gherkin" alt="Cucumber" title="Cucumber"/></a> &nbsp;<a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest"/></a> &nbsp;<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/></a> &nbsp;<a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" title="Selenium"/>
+<a href="https://autohotkey.com/"><img src="./autohotkey.svg" height="49" alt="AutoHotKey" title="AutoHotKey"/></a> &nbsp;<a href="https://www.cypress.io/"><img src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress" title="Cypress"/></a> &nbsp;<a href="https://cucumber.io/"><img src="https://skillicons.dev/icons?i=gherkin" alt="Cucumber" title="Cucumber"/></a> &nbsp;<a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest"/></a> &nbsp;<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/></a> &nbsp;<a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" title="Selenium"/>
 
 * FOSS software:
 
